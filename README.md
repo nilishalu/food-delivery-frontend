@@ -1,1 +1,1 @@
-# WebDev_SMP
+Front end UI of the food delivery website
